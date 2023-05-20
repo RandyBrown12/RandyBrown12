@@ -1,15 +1,15 @@
 ### About Me
 
-Hello, Im Randy Brown and I am getting get my bachelor's degree
-in Computer Science and expected to graduate in May 2025.
+Hello, Im Randy Brown and I am getting get my bachelor's degree 
+in Computer Science and expecting to graduate in May 2025.
 
 My passion for programming came from playing flash games found
-on websites such as ArmorGames and CoolMathGames. I always had
+on websites such as ArmorGames and CoolMathGames. I always had 
 these crazy ideas on how to create a fun game.
 
-When I first got into my programming class, I got to see
-some of the applications computer science could be used for
-like creating 3D animations using Alice.
+When I first got into my programming class, I got to see some 
+of the applications computer science could be used for like
+creating 3D animations using Alice.
 
 Then, I went to college and found out about so many other
 languages and other software used in many different fields. I
